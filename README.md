@@ -2,7 +2,6 @@
 A Java program that monitors file creation, deletion and modification.
 
 
-# Java File Monitor
 
 ## Project Description
 A Java application that monitors a specified
